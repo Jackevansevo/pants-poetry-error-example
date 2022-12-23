@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "root"
+version = "0.1.0"
+description = ""
+authors = ["Jack Evans <jack@evans.gb.net>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+ariadne = "^0.13.0"
